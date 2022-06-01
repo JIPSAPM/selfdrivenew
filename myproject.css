@@ -1,0 +1,98 @@
+body[
+    margin-left: 2cm;
+]
+
+.d-block{
+    height: 550px;
+}
+span{
+    color: yellow;
+}
+.b1{
+    background-color: blue;
+width: 100px;
+border-radius: 20px;
+color: white;
+}
+.b1:hover{
+    background-color: white;
+border-color: blue;
+color: blue;
+}
+.c2{
+    margin-top: 4cm;
+    margin-left: 2cm;
+}
+.title{
+    margin-top: -2cm;
+    color: blueviolet;
+ background-color: white;
+}
+.title:hover{
+    color: black;
+}
+.card{
+    padding: 20px;
+    height: 270px;
+    border-color: white;
+    text-align: center;
+}
+.c3{
+    text-align: center;
+}
+.text{
+    color: rgb(38, 212, 140);
+}
+.c5{
+    height: 200px;
+    margin-left: 100px;
+margin-top: 2cm;
+}
+.c6{
+    border-top-color: black;
+border-radius: 20px;
+border-style: solid;
+border: 1in;
+height: 200px;
+width: 500px;
+text-align: center;
+padding: 20px;
+margin-top: 1cm;
+}
+.c7{
+    margin-top: 2cm;
+}
+.h5{
+    background-color: gray;
+}
+ .c8{
+ background-image:url(./images/images.jpg);
+ background-size: cover;
+ background-repeat: no-repeat;
+ width: 100%;
+ padding: 40px;
+ margin-top: 2cm;
+}
+.button{
+    text-align: center;
+}
+.button:hover{
+    background-color: white;
+}
+.c9{
+    height: 200px;
+}
+.c10{
+    position: sticky;
+    sticky:top;
+    width: 200px;
+    height: 50px;
+}
+.c11{
+    background-color: gray;
+color: white;
+padding: 10px;
+}
+.c12{
+    padding: 20px;
+}
